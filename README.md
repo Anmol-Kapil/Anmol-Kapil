@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Anmol Kapil</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+%26+ML+Student;Full+Stack+Developer;DevOps+Enthusiast;Problem+Solver;Open+Source+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=ECM+%26+Student;Full+Stack+Developer;DevOps+Enthusiast;Problem+Solver;Open+Source+Learner" />
 </p>
 
 ---
