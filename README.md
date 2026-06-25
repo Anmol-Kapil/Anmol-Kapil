@@ -57,10 +57,6 @@
 - FastAPI + AES Encryption + SQLite + Google Drive API
 - Secure file upload/download with encrypted storage
 
-### 🤖 Mental Health Chatbot
-- TensorFlow, NLP, NLTK, Hugging Face
-- Intent classification and multilingual support
-
 ### 🚨 Credit Card Fraud Detection
 - Random Forest, Feature Engineering, Data Analysis
 - High accuracy fraud prediction system
