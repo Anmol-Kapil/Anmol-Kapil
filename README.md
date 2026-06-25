@@ -74,15 +74,18 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anmolak8&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=
+Anmol-Kapil&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anmolak8&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=
+Anmol-Kapil&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmolak8&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=
+Anmol-Kapil&layout=compact&theme=tokyonight" />
 </p>
 
 ---
