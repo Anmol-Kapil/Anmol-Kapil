@@ -15,7 +15,7 @@
 
 🌱 Currently learning Kubernetes, Docker, Jenkins and Advanced Machine Learning
 
-🧠 Solved 500+ DSA problems and actively practicing LeetCode
+🧠 Solved 200+ DSA problems and actively practicing LeetCode
 
 🎯 Goal: Build scalable AI-powered applications and cloud-native systems
 
