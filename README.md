@@ -84,7 +84,7 @@
 ## 🏆 Coding Profiles
 
 - LeetCode: https://leetcode.com/u/anmolkapil8/
-- GitHub: https://github.com/Anmol-Kapil
+
 
 ---
 
