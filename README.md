@@ -16,13 +16,12 @@
 
 🎓 B.Tech in **Electronics & Computer Engineering**
 
-💻 Passionate about **Artificial Intelligence, Machine Learning, Full Stack Development, DevOps and Cloud Computing**
+💻 Passionate about **Full Stack Development, DevOps and Cloud Computing**
 
 🚀 I enjoy building production-ready software that combines **AI, scalable backend systems and cloud-native technologies.**
 
 🌱 Currently Learning
 
-- Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
 - Kubernetes
 - Advanced Machine Learning
