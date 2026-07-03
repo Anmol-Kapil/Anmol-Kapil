@@ -1,95 +1,279 @@
-<!-- Typing Banner -->
+<!-- =========================== HEADER =========================== -->
+
 <h1 align="center">Hi 👋, I'm Anmol Kapil</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=ECM+Student;Full+Stack+Developer;DevOps+Enthusiast;Problem+Solver;Open+Source+Learner" />
-</p>
-
----
-
-## 🚀 About Me
-
-🎓 B.Tech Electronics & Computer Engineering Student
-
-💻 Interested in AI/ML, Full Stack Development, DevOps & Cloud
-
-🌱 Currently learning Kubernetes, Docker, Jenkins and Advanced Machine Learning
-
-🧠 Solved 200+ DSA problems and actively practicing LeetCode
-
-🎯 Goal: Build scalable AI-powered applications and cloud-native systems
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Web Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-
-### AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
----
-
-## 📂 Featured Projects
-
-### 🔐 Secure Cloud Storage
-- FastAPI + AES Encryption + SQLite + Google Drive API
-- Secure file upload/download with encrypted storage
-
-### 🚨 Credit Card Fraud Detection
-- Random Forest, Feature Engineering, Data Analysis
-- High accuracy fraud prediction system
-
-### ⚙️ DevOps CI/CD Pipeline
-- Jenkins, Docker, Kubernetes, Grafana, Prometheus
-- Automated build, test and deployment pipeline
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol-Kapil&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Electronics+%26+Computer+Engineering+Student;AI+%26+ML+Enthusiast;Full+Stack+Developer;DevOps+Learner;Building+Cloud+Native+Applications" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Anmol-Kapil&theme=tokyonight&hide_border=true&v=2" />
-  
+  <img src="https://komarev.com/ghpvc/?username=Anmol-Kapil&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-## 🏆 Coding Profiles
+---
 
-- LeetCode: https://leetcode.com/u/anmolkapil8/
+# 🚀 About Me
 
+🎓 B.Tech in **Electronics & Computer Engineering**
+
+💻 Passionate about **Artificial Intelligence, Machine Learning, Full Stack Development, DevOps and Cloud Computing**
+
+🚀 I enjoy building production-ready software that combines **AI, scalable backend systems and cloud-native technologies.**
+
+🌱 Currently Learning
+
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Kubernetes
+- Advanced Machine Learning
+
+🧠 Solved **200+ DSA problems** on LeetCode
+
+🎯 Interested in
+
+- Software Engineering
+- AI Engineering
+- Backend Development
+- Cloud & DevOps
+
+⚡ Fun Fact
+
+> I love turning complex ideas into practical real-world applications.
 
 ---
 
-## 📫 Connect With Me
+# 🔭 Currently Working On
 
-- Email: anmolkapil8@gmail.com
-- LinkedIn: https://linkedin.com/in/anmol-kapil-4b4339263
+- 🤖 Auto-Improving RAG System
+- 🌐 Personal Portfolio
+- ☁️ Cloud Native Applications
+- 📚 Advanced Machine Learning
 
 ---
 
-⭐ If you like my projects, consider giving them a star!
+# 🛠 Tech Stack
+
+## 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript" />
+</p>
+
+---
+
+## 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,spring,mongodb,mysql,html,css" />
+</p>
+
+---
+
+## 🤖 AI / Machine Learning
+
+<p>
+
+- TensorFlow
+- Scikit-Learn
+- Pandas
+- NumPy
+- Hugging Face
+- NLP
+- Feature Engineering
+- Random Forest
+- Deep Learning
+
+</p>
+
+---
+
+## ☁️ DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,ansible,git,github,linux,bash" />
+</p>
+
+---
+
+## 🗄 Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+</p>
+
+---
+
+## 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman,maven,github" />
+</p>
+
+---
+
+# 📂 Featured Projects
+
+## 🔐 Secure Cloud Storage
+
+**FastAPI • AES Encryption • SQLite • Google Drive API**
+
+- Secure file upload & download
+- AES encrypted storage
+- Metadata stored in SQLite
+- Google Drive cloud integration
+- REST API based architecture
+
+---
+
+## 🚨 Credit Card Fraud Detection
+
+**Python • Random Forest • Scikit-Learn**
+
+- Feature engineering
+- Fraud prediction model
+- Data preprocessing
+- Exploratory Data Analysis
+- Model evaluation
+
+---
+
+## ⚙️ DevOps CI/CD Pipeline
+
+**Jenkins • Docker • Kubernetes • Terraform • Ansible**
+
+- Automated build pipeline
+- Dockerized applications
+- Kubernetes deployment
+- Infrastructure automation
+- Monitoring using Prometheus & Grafana
+
+---
+
+## 🧠 Mental Health Chatbot
+
+**TensorFlow • NLP • Flask**
+
+- Intent classification
+- Context-aware responses
+- Translation support
+- Deep Learning model
+
+---
+
+## 🤖 Auto-Improving RAG *(In Progress)*
+
+**LangChain • ChromaDB • FastAPI • LLM**
+
+- Self-improving retrieval
+- Semantic Search
+- Feedback-driven ranking
+- Hallucination reduction
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anmol-Kapil&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol-Kapil&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Anmol-Kapil&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anmol-Kapil&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Anmol-Kapil&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 💼 Coding Profiles
+
+<p>
+
+<a href="https://leetcode.com/u/anmolkapil8/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 📜 Certifications
+
+🏅 IBM DevOps and Software Engineering
+
+---
+
+# 🌐 Connect With Me
+
+<p>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/anmol-kapil-4b4339263">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:anmolkapil8@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/anmolkapil8/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Anmol-Kapil">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# 📄 Resume
+
+📄 **Resume:** YOUR_RESUME_URL
+
+---
+
+# 💡 Quote
+
+> *"First solve the problem. Then, write the code."*  
+> — John Johnson
+
+---
+
+<p align="center">
+
+### ⭐ If you like my projects, consider giving them a star!
+
+</p>
