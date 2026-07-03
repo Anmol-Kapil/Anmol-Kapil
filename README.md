@@ -68,24 +68,6 @@
 
 ---
 
-## 🤖 AI / Machine Learning
-
-<p>
-
-- TensorFlow
-- Scikit-Learn
-- Pandas
-- NumPy
-- Hugging Face
-- NLP
-- Feature Engineering
-- Random Forest
-- Deep Learning
-
-</p>
-
----
-
 ## ☁️ DevOps & Cloud
 
 <p>
@@ -149,16 +131,6 @@
 ---
 
 
-## 🤖 Auto-Improving RAG *(In Progress)*
-
-**LangChain • ChromaDB • FastAPI • LLM**
-
-- Self-improving retrieval
-- Semantic Search
-- Feedback-driven ranking
-- Hallucination reduction
-
----
 
 # 📊 GitHub Stats
 
@@ -182,25 +154,6 @@
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anmol-Kapil&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Anmol-Kapil&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</p>
-
----
 
 # 💼 Coding Profiles
 
@@ -216,7 +169,7 @@
 
 # 📜 Certifications
 
-🏅 IBM DevOps and Software Engineering
+🏅 IBM DevOps
 
 ---
 
@@ -224,7 +177,7 @@
 
 <p>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://portfolio-website-iota-one-95.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -246,11 +199,6 @@
 
 </p>
 
----
-
-# 📄 Resume
-
-📄 **Resume:** YOUR_RESUME_URL
 
 ---
 
@@ -263,6 +211,5 @@
 
 <p align="center">
 
-### ⭐ If you like my projects, consider giving them a star!
 
 </p>
