@@ -148,16 +148,6 @@
 
 ---
 
-## 🧠 Mental Health Chatbot
-
-**TensorFlow • NLP • Flask**
-
-- Intent classification
-- Context-aware responses
-- Translation support
-- Deep Learning model
-
----
 
 ## 🤖 Auto-Improving RAG *(In Progress)*
 
