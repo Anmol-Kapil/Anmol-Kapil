@@ -37,16 +37,6 @@
 - 🤝 Technical member of the university **AI Club** and volunteer at technical workshops.
 - 📍 Based in **Haridwar, Uttarakhand, India**.
 
-## Experience
-
-### Incoming SDE Intern — Honeywell
-**January 2027 – June 2027**
-
-### Web Developer Intern — InAmigos Foundation
-**May 2026 – June 2026**
-
-- Improved website responsiveness and user interfaces.
-- Collaborated on feature development.
 
 ---
 
