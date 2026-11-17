@@ -32,10 +32,8 @@
 - 🎓 Pursuing **B.Tech in Electronics & Computer Engineering** at **VIT Chennai**, 2023–2027.
 - 📚 **CGPA: 8.8**
 - 💻 Interested in software engineering, backend development, AI applications, cloud computing, and DevOps.
-- 🧠 Solved **250+ Data Structures & Algorithms problems** on LeetCode.
 - 🛠 Experience building document Q&A systems, secure cloud applications, analytics dashboards, and IoT platforms.
 - 🤝 Technical member of the university **AI Club** and volunteer at technical workshops.
-- 📍 Based in **Haridwar, Uttarakhand, India**.
 
 
 ---
